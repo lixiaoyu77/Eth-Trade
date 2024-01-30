@@ -24,7 +24,13 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+该服务允许用户发起以太坊转账请求，将以太币（ETH）转移到指定的地址
+以及各种交互请求
+
+## 注意
+- 请妥善保存私钥信息，不要将其泄露给他人。
+- 在生产环境中，应该使用 HTTPS 来保护通信安全。
+- 请确保节点 URL 和 API 密钥的准确性。
 
 ## Installation
 
